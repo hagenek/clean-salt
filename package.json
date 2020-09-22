@@ -1,0 +1,25 @@
+{
+  "name": "fall20-kata-fizzbuzz",
+  "version": "1.0.0",
+  "description": "## Kata 1 - FizzBuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltsthlm/fall20-kata-fizzbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltsthlm/fall20-kata-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/saltsthlm/fall20-kata-fizzbuzz#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint-config-salt": "^1.1.0",
+    "mocha": "^8.1.3"
+  }
+}
